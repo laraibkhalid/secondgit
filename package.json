@@ -1,0 +1,24 @@
+{
+  "name": "secondgit",
+  "version": "1.0.0",
+  "description": "this is for git and node practice to develop multiplateform mobile apps",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laraibkhalid/secondgit.git"
+  },
+  "author": "laraib khalid sandhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laraibkhalid/secondgit/issues"
+  },
+  "homepage": "https://github.com/laraibkhalid/secondgit#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
